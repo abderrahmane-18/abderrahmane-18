@@ -6,7 +6,7 @@
 </head>
  <body>
 <h1 align="center">Hi , I'm Abderrahmane Boukhezar</h1>
-<h3 align="center">Back End Developer / Design System Enthusiast   / Comptitive Programmer</h3>
+<h3 align="center">Back End Developer / Design System Enthusiast   / Competitive Programmer</h3>
   
 -  All of my projects are available at [boukhezar.com](boukhezar.com)
 - 💬 Ask me about **PHP, Laravel , JavaScript**
