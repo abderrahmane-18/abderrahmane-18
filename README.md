@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **contact@boukhezar.com**
 
-- 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1NvECR4s9lFqyUdlN7BbppnEfcWPa_8rK/view?usp=sharing)
+- 📄 Know about me [My Cv](https://drive.google.com/file/d/1NvECR4s9lFqyUdlN7BbppnEfcWPa_8rK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
