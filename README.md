@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+ <body>
 <h1 align="center">Hi , I'm Abderrahmane Boukhezar</h1>
 <h3 align="center">BackEnd Developer / Problem Solver / Comptitive Programmer</h3>
 
@@ -24,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-18&show_icons=true&locale=en&layout=compact" alt="abderrahmane-18" /></p>
 <script src="https://kit.fontawesome.com/a9d796a47e.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
