@@ -15,8 +15,8 @@
 - 📫 How to reach me **contact@boukhezar.com**
 
 - 📄 Know about me [My Cv](https://drive.google.com/file/d/1NvECR4s9lFqyUdlN7BbppnEfcWPa_8rK/view?usp=sharing)
-- Also I'am got with my team   **2 place out of 44 teams in ALCPC 2023**(Algerian Collegiate Programming Contest) ,and qualified for **ACPC** (Africa and Arab Collegiate Programming
-Championship) in Egypt .
+- Also I'am got with my team   **2 place out of 44 teams in ALCPC 2023**(Algerian Collegiate Programming Contest) ,and qualified for **ACPC(Africa and Arab Collegiate Programming
+Championship) in Egypt**  .
 ### Skills
 
 <p align="left">
