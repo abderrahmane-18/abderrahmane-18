@@ -7,14 +7,14 @@
  <body>
 <h1 align="center">Hi , I'm Abderrahmane Boukhezar</h1>
 <h3 align="center">Back End Developer / Problem Solver / Comptitive Programmer</h3>
-
+* 🌍  I'm based in Jijel Algeria
+* 🖥️  See my portfolio at [boukhezar.com](http://boukhezar.com)
+* ✉️  You can contact me at [contact@boukhezar.com](mailto:contact@boukhezar.com)
+* 💬 Ask me about **Php, laravel ,javaScript**
+* 📄 Know about me [My Cv](https://drive.google.com/file/d/1NvECR4s9lFqyUdlN7BbppnEfcWPa_8rK/view?usp=sharing)  
 -  All of my projects are available at [boukhezar.com](boukhezar.com)
 
-- 💬 Ask me about **Php, laravel ,javaScript**
 
-- 📫 How to reach me **contact@boukhezar.com**
-
-- 📄 Know about me [My Cv](https://drive.google.com/file/d/1NvECR4s9lFqyUdlN7BbppnEfcWPa_8rK/view?usp=sharing)
 
 <h3 align="left">Profiles :</h3>
 <p align="left">
