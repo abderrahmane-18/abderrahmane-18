@@ -7,8 +7,8 @@
  <body>
 <h1 align="center">Hi , I'm Abderrahmane Boukhezar</h1>
 <h3 align="center">Back End Developer / Problem Solver / Comptitive Programmer</h3>
-* 🌍  I'm based in Jijel Algeria <br>
-* 🖥️  See my portfolio at [boukhezar.com](boukhezar.com)< <br>
+* 🌍  I'm based in Jijel Algeria 
+* 🖥️  See my portfolio at [boukhezar.com](boukhezar.com)
 * ✉️  You can contact me at **contact@boukhezar.com**
 
 
