@@ -10,7 +10,7 @@
 
 -  All of my projects are available at [boukhezar.com](boukhezar.com)
 
-- 💬 Ask me about **Php, laravel ,javaScript**
+- 💬 Ask me about **PHP, Laravel ,JavaScript**
 
 - 📫 How to reach me **contact@boukhezar.com**
 
