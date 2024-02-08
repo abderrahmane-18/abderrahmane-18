@@ -43,7 +43,7 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/abderrahmane-18/website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-18&repo=website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-18&show_icons=true&locale=en&layout=compact" alt="abderrahmane-18" /></p>
 </body>
