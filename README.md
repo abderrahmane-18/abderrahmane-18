@@ -9,7 +9,7 @@
 <h3 align="center">Back End Developer / Design System Enthusiast   / Comptitive Programmer</h3>
   
 -  All of my projects are available at [boukhezar.com](boukhezar.com)
-- 💬 Ask me about **PHP, Laravel ,JavaScript**
+- 💬 Ask me about **PHP, Laravel , JavaScript**
 - 📫 How to reach me **contact@boukhezar.com**
 **2 place out of 44 teams in ALCPC 2023**
 - 📄 Know about me [My Cv](https://drive.google.com/file/d/1NvECR4s9lFqyUdlN7BbppnEfcWPa_8rK/view?usp=sharing)
