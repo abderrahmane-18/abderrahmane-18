@@ -9,7 +9,7 @@
 <h3 align="center">Back End Developer / Problem Solver / Comptitive Programmer</h3>
 * 🌍  I'm based in Jijel Algeria <br>
 * 🖥️  See my portfolio at [boukhezar.com](http://boukhezar.com) <br>
-* ✉️  You can contact me at [contact@boukhezar.com] (mailto:contact@boukhezar.com)
+* ✉️  You can contact me at **contact@boukhezar.com**
 
 
 * 💬 Ask me about **Php, laravel ,javaScript** <br>
