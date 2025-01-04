@@ -15,6 +15,9 @@
 - 📄 If you're interested, [My CV](https://drive.google.com/file/d/18GeFFITC6tJ1mP1yPCq5LZQzdDKZ3mSn/view?usp=sharing) is available
 - Also I'am got with my team  [**2 place out of 44 teams in ALCPC 2023**](https://drive.google.com/file/d/1vs6F92u9Syz2GuZ8jR9PM0IijQEMIGcC/view) (Algerian Collegiate Programming Contest) ,                     
  and [**qualified for ACPC(Africa and Arab Collegiate Programming)**](https://drive.google.com/file/d/1MxUzrkiHcsR7rsuYSAAbbg6MPXdfeem4/view?usp=sharing)  in Egypt .
+
+![Profile Views](https://komarev.com/ghpvc/?username=abderrahmane-18&color=blue)
+
 ### Skills
 
 <p align="left">
